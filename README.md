@@ -70,7 +70,7 @@ Dzięki procesowi dwuetapowemu (najpierw budowa obrazu lokalnie z flagą load: t
 
 ```
 
-## 3. Schemat Tagowania (Uzasadnienie i Dodatkowe Punkty)
+## 3. Schemat Tagowania
 Do automatycznego zarządzania tagami i adnotacjami (zgodnymi z OCI) użyto oficjalnej akcji docker/metadata-action.
 
 Zrezygnowano z wyłącznego polegania na statycznym tagu :latest, ponieważ jest to antywzorzec (tzw. "latest-trap"), który uniemożliwia łatwy rollback. Zamiast tego zaimplementowano priorytetyzację tagów:
