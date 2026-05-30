@@ -93,6 +93,7 @@ Branch name: Tag zgodny z nazwą gałęzi (np. main), co ułatwia pobieranie naj
       type=semver,priority=200,pattern={{version}}
 
 ```
+<img width="1410" height="86" alt="image" src="https://github.com/user-attachments/assets/26090014-76b6-4998-883c-cfaa5f94bced" />
 
 ## 4. Potwierdzenie działania
 <img width="1308" height="88" alt="image" src="https://github.com/user-attachments/assets/ff8b9850-004f-47bb-aafb-aab73a3b8503" />
