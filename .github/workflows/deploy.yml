@@ -52,7 +52,7 @@ jobs:
 
 
       - name: Budowa obrazu lokalnego dla testu CVE
-        uses: docker/build-push-action@v7 # Wersja uzyta na wykladzie L10
+        uses: docker/build-push-action@v7
         with:
           context: .
           load: true 
