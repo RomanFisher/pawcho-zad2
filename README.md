@@ -5,7 +5,7 @@
 Niniejsze repozytorium zawiera kompletne rozwiązanie Zadania 2, obejmujące kody źródłowe aplikacji (z Zadania 1) oraz zautomatyzowany łańcuch w usłudze **GitHub Actions**. Pipeline buduje, testuje pod kątem bezpieczeństwa i publikuje wieloarchitekturowy obraz kontenera.
 
 ---
-<img width="747" height="1309" alt="image" src="https://github.com/user-attachments/assets/5a568689-aba2-4400-951b-8d852d6a1ac7" />
+<img width="675" height="1321" alt="image" src="https://github.com/user-attachments/assets/a91564a9-ae5c-4d47-b9af-5fee24db907f" />
 
 ## 1. Architektura i Konfiguracja Łańcucha
 
